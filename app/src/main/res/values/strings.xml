@@ -1,0 +1,7 @@
+<resources>
+    <string name = "app_name">TodoListApp</string>
+    <string name = "task_placeholder">Task #</string>
+    <string name = "list_placeholder">List #</string>
+    <string name = "list_fragment_title">Lists</string>
+    <string name = "task_fragment_title">Tasks</string>
+</resources>
